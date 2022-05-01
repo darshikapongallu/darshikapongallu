@@ -1,7 +1,7 @@
 ### Hola, I am Darshika 👋
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on FullStack Development
+- 👯 I’m looking to collaborate on Full Stack Development
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshikapongallu&&theme=highcontrast) , ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshikapongallu&show_icons=true&theme=highcontrast)
 
