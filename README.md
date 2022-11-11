@@ -1,9 +1,11 @@
 ### Hola, I am Darshika 👋   
 ![](https://komarev.com/ghpvc/?username=darshikapongallu&color=dc143c)
 
-- 🌱 I’m currently learning Full Stack Web Development and Cloud Computing.
+- 🌱 I’m currently learning Cloud Computing.
 - 👯 I’m looking to collaborate on Full Stack Development and Cloud Computing.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshikapongallu&&theme=highcontrast) , ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshikapongallu&show_icons=true&theme=highcontrast)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 
 ### Technical Skills
 
